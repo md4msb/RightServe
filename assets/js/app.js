@@ -13,8 +13,8 @@
 
     $this
       .gmap3({
-        center: [-37.81618, 144.95692],
-        zoom: 12,
+        center: [11.247605853335386, 75.83348528292137],
+        zoom: 15,
         scrollwheel: false,
         mapTypeId: google.maps.MapTypeId.ROADMAP,
         styles: [
